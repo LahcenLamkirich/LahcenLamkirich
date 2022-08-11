@@ -23,5 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lahcenlamkirich&show_icons=true&locale=en" alt="lahcenlamkirich" /></p><br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahcenlamkirich&" alt="lahcenlamkirich" /></p>
 
