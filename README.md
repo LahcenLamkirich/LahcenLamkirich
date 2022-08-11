@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Salesforce Project**
 
-- 💬 Ask me about ** Web & Mobile Developement **
+- 💬 Ask me about **Web & Mobile Developement**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lahcen-lamkirich-ab22271a3/**
 
