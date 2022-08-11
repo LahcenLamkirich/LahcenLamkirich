@@ -21,6 +21,6 @@
 
 
 
-<p><img align="center" style="margin-top: 20px;"src="https://github-readme-stats.vercel.app/api?username=lahcenlamkirich&show_icons=true&locale=en" alt="lahcenlamkirich" /></p><br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lahcenlamkirich&show_icons=true&locale=en" alt="lahcenlamkirich" /></p><br />
 
 
