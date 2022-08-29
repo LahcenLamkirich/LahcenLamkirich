@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lahcen-lamkirich-ab22271a3/**
 
+- 😁 Fun FACT Cars and Sneakers Lover
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lahcen_lam06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahcen_lam06" height="30" width="40" /></a>
