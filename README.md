@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lahcen-lamkirich-ab22271a3/**
 
-- 😁 Fun FACT Cars and Sneakers Lover
+- 😁 Fun FACT -> Cars and Sneakers Lover
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
