@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web & Mobile Developement**
 
-- 📫 How to reach me **https://www.linkedin.com/in/lahcen-lamkirich-ab22271a3/**
+- 📫 How to reach me **https://www.linkedin.com/in/lahcen-lamkirich-%E2%98%81%EF%B8%8F-ab22271a3/**
 
 - 😁 Fun FACT -> Cars and Sneakers Lover
 
