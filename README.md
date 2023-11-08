@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahcenlamkirich&label=Profile%20views&color=0e75b6&style=flat" alt="lahcenlamkirich" /> </p>
 
-- 🔭 I’m currently working on **Salesforce Project**
+- 🔭 I’m currently working on **Salesforce Projects**
 
 - 💬 Ask me about **Web & Mobile Developement**
 
